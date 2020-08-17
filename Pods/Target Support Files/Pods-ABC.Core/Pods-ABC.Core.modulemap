@@ -1,0 +1,6 @@
+framework module Pods_ABC_Core {
+  umbrella header "Pods-ABC.Core-umbrella.h"
+
+  export *
+  module * { export * }
+}
